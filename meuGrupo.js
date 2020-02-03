@@ -8,7 +8,7 @@ let nicolas = {
 let nomeAluno = {
     nome: "Agnelo David Fico Neto",
     passaTempo : "Tocar Violão",
-    membrosGrupo: []
+    membrosGrupo: ["Aguiaiá","Ana Carolina","Agnelo","Nicolas"]
 }
 
 const pessoa = {
