@@ -1,5 +1,5 @@
 let nomeAluno = {
     nome: "Agnelo David Fico Neto",
     passaTempo : "Tocar Violão",
-    membrosGrupo: []
+    membrosGrupo: ["Nicolas", "Aguiaia", "Ana Carolina"]
 }
